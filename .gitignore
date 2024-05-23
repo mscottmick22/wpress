@@ -1,0 +1,20 @@
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Ignore configuration files
+wp-config.php
+
+# Ignore uploads
+/wp-content/uploads/
+
+# Ignore plugins and themes that are not under version control
+/wp-content/plugins/
+/wp-content/themes/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
