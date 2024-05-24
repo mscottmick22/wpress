@@ -8,10 +8,6 @@ wp-config.php
 # Ignore uploads
 /wp-content/uploads/
 
-# Ignore plugins and themes that are not under version control
-/wp-content/plugins/
-/wp-content/themes/
-
 # Ignore temporary files
 *.log
 *.tmp
